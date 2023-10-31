@@ -29,3 +29,7 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 30.0
+- Name: Screen2
+  Id: g=cef045b1b26d576cbfe2a138eb7ff146
+  Supertype: Screen
+  ReferenceType: HasComponent
